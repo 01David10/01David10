@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ingenieriero Informatico<br><br>Apasionado por la tecnologia y la programación<br><br>Tengo conocimientos en JavaScript, Node.js, HTML y CSS
+Ingenieriero Informatico<br><br>Apasionado por la tecnologia y la programación<br><br>Tengo conocimientos en JavaScript, Node.js, Express.js, HTML y CSS
 
 
 ## 🌐 Socials:
