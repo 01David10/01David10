@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+[<img width="1584" height="396" alt="Banner GitHub" src="https://github.com/user-attachments/assets/ed7ec085-77ae-4acb-a958-09d89e199c40" />](https://res.cloudinary.com/djrfawshy/image/upload/v1752358007/Banner_GitHub_ryeq5l.png)
+
 Computer Engineer 👾
 <br><br>
 Passionate about technology and and willing to learn 📚
