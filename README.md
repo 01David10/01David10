@@ -1,11 +1,9 @@
 # 💫 About Me:
-Ingenieriero Informatico<br><br>Apasionado por la tecnologia y la programación<br><br>Tengo conocimientos avanzados en: 
-
-- JavaScript
-- Node.js
-- Express.js
-- HTML
-- CSS
+Computer Engineer 👾
+<br><br>
+Passionate about technology and and willing to learn 📚
+<br><br>
+Looking for opportunities to collaborate on innovative projects 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidcp97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dcorreap97@gmail.com) 
